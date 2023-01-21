@@ -1,0 +1,50 @@
+1)Difference between authentication and authorisation ?
+2) what's about security method?
+3) what about JWT
+formation about JWT
+4) what's about http status
+5) difference between put mapping and patching mapping
+6) difference between hashmap and hashtable
+7) difference between arraylist and linked list and where it is best for use ?
+8) reverse a program and find palindrome and find the sum of the reverse and palindrome
+1) what is JDK and what is difference between JDK and JVM?
+2) What is overloading? 
+3) How can we create Thread in java?
+4) what is the difference between spring and spring boot?
+5) what is dependancy injection in spring boot ?
+6) workflow of spring boot application execution?
+7) what is RESTFul web sevices?
+1)Perform the Crud operation in the spring boot application
+2)Sorting the data in database in 5th maximum order write query
+3)there is scenario to sort the data in basis of name ...in Java code
+1)Method overloading or overriding 
+2)what is exception handling and how can we handle the exception.
+3)what about oops concepts
+4)what is spring initilizer
+5)whatabout
+@component
+6)what about dependency injection 
+7)spring cli
+8)make a program to reverse the string without using readymade function 
+9)make a program to print the number in reverse order by any sorting
+1) Details of project
+2) what about spring boot database connectivity
+3) what about spring security 
+4)what about aop
+5)make a integer reverse order array program without using readymade function .
+1)Details of project
+2) what's about Rest service
+3)types of memory in Java 
+4) what's about orm
+5) what's about hibernate
+6) inheritance in hibernate
+1) details about project
+2) method overloading and methods overriding
+3) what's about spring accumulator
+4) what's about spring profile
+5) what's about jdbc
+6) what's about MySQL
+7) what's about orm
+8) what's about mapping in hibernate
+9) what's about hql
+10) what's about blob
